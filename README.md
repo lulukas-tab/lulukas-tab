@@ -1,5 +1,5 @@
 # Hi there, I'm Lucas! 👋
-🎓 Educação: Ensino médio completo - Colégio Imaculado Coração de Maria LTDA (organização privada)| Posse GO  
+🎓 Educação: Ensino médio completo - Colégio Imaculado Coração de Maria LTDA (Organização privada)| Posse GO  
 💼 Graduação em Ciência da Computação no Centro Universitário de Brasília (CEUB)  
  Atualmente focado em: Front-end (HTML, CSS, Node.js, Angular), Back-end (PHP, Python, Java), SQL, Firebase, Microsserviços.  
 ✉️ Entre em contato comigo em [lucas.almeidasilva570@gmail.com](mailto:lucas.almeidasilva570@gmail.com)
