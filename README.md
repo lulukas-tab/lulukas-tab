@@ -1,3 +1,4 @@
+# Hi there, I'm Lucas! 👋
 🎓 Educação: Ensino médio completo - Colégio Imaculado Coração de Maria LTDA | Posse GO  
 💼 Graduação em Ciência da Computação no Centro Universitário de Brasília (CEUB)  
  Atualmente focado em: Front-end (HTML, CSS, Node.js, Angular), Back-end (PHP, Python, Java), SQL, Firebase, Microsserviços.  
