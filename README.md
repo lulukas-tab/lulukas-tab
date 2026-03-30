@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL (SQL)"/>
 </p>
 
-### Redes Sociais
+### Socials
 ---
 <p align="left">
   <a href="https://www.instagram.com/lukasalmeida_vv/" target="_blank">
