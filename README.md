@@ -1,3 +1,10 @@
+🎓 Educação: Ensino médio completo - Colégio Imaculado Coração de Maria LTDA | Posse GO  
+💼 Graduação em Ciência da Computação no Centro Universitário de Brasília (CEUB)  
+🌱 Atualmente focado em: Front-end (HTML, CSS, Node.js, Angular), Back-end (PHP, Python, Java), SQL, Firebase, Microsserviços.  
+✉️ Entre em contato comigo em [lucas.almeidasilva570@gmail.com](mailto:lucas.almeidasilva570@gmail.com)
+
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&lines=Mid-Level+Developer;Mid-Level+Developer" alt="Typing SVG" />
 </p>
